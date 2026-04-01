@@ -8,7 +8,7 @@ I am a passionate technologist specializing in **Artificial Intelligence, Machin
 
 ## 🧠 About Me
 
-* 🎓 Background in Computer Science (BSc / MCA track)
+* 🎓 Background in BSc-Computer Science 
 * 🤖 Working on AI-powered applications and NLP systems
 * 🔐 Actively learning and practicing cybersecurity (TryHackMe, OverTheWire)
 * ⚡ Interested in building scalable, real-time AI solutions
